@@ -19,7 +19,10 @@ body {
 
 
 }
-
+.bb p {
+    
+padding-bottom: 30px;
+}
 
 .pp {
     background-color: white;
@@ -67,7 +70,7 @@ body {
 
 .slide img {
   width: 35%;   /* 2 images side by side */
-  height: 70%;
+  height: 60%;
   object-fit: cover;
   border-radius: 20px;
 }
@@ -490,5 +493,6 @@ h5 {
       }
 
     }
+
 
 
