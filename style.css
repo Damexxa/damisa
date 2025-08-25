@@ -66,8 +66,8 @@ body {
 }
 
 .slide img {
-  width: 40%;   /* 2 images side by side */
-  height: 80%;
+  width: 35%;   /* 2 images side by side */
+  height: 70%;
   object-fit: cover;
   border-radius: 20px;
 }
@@ -488,4 +488,5 @@ h5 {
       .hamburger {
         display: flex;
       }
+
     }
